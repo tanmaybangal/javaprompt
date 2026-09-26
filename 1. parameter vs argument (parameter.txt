@@ -1,0 +1,9 @@
+						 JAVA INFOSYS TRAINING
+
+1. parameter vs argument (parameter is num1 and num2 and argument is object like firstnum and secnum)
+2. java's all starts from java object.
+3. arraylist allows hetrogeneus.
+4. stacktrace
+5. prime no, hfc,lcm, reverse of linked list, string pallingdrom (constractor questions)
+
+Resources: Afairscloud - for govt bank exam.
